@@ -5,7 +5,6 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/material_on_background_disabled"
     tools:context=".MainActivity">
 
     <TextView
@@ -37,9 +36,9 @@
         android:id="@+id/buttonConvert"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="#FFFF00"
         android:onClick="clickToButton"
         android:text="@string/buttonText"
-        android:backgroundTint="#FFFF00"
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
