@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">AllIsOpposite</string>
     <string name="greeting">Все наоборот</string>
-    <string name="inputTextHint">Введите текст.</string>
-    <string name="buttonText">Преобразовать.</string>
-    <string name="resultText">Результат.</string>
-    <string name="resultSymbols">Количество символов.</string>
+    <string name="inputTextHint">Введите текст</string>
+    <string name="buttonText">Преобразовать</string>
+    <string name="resultText">Результат</string>
+    <string name="resultSymbols">Количество символов</string>
 </resources>
